@@ -1,13 +1,15 @@
 ## **Definition**
-It is the process of modulation by which the amplitude of  carrier signal is varied in accordance with the instantaneous amplitude of the message signal.
+It is the process of modulation by which the frequency of  carrier signal is varied in accordance with the instantaneous amplitude of the message signal.
 
 ## **Derivation**
-![Derivation](deriv.png)
+![Derivation](driv1.png)
+![Derivation](driv2.png)
+![Derivation](driv3.png)
 
 - Algorithm
     - Generate message signal and display
     - Generate carrier signal and display
-    - Generate AM signal
+    - Generate FM signal
 
 > Note: For modulation frequency of the carrier is more than frequency of the message signal.
 
@@ -19,3 +21,4 @@ fc = 20
 Ac = 1
 ````
 > ![Output](out.png)
+
