@@ -5,10 +5,10 @@ It is the process of modulation by which the Phase of  carrier signal is varied 
 ![Derivation](driv1.png)
 ![Derivation](driv2.png)
 
-- Algorithm
-    - Generate message signal and display
-    - Generate carrier signal and display
-    - Generate PM signal
+## **Algorthm**
+- Generate message signal and display
+- Generate carrier signal and display
+- Generate PM signal
 
 > Note: For modulation frequency of the carrier is more than frequency of the message signal.
 

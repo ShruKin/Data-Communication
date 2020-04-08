@@ -6,10 +6,10 @@ It is the process of modulation by which the frequency of  carrier signal is var
 ![Derivation](driv2.png)
 ![Derivation](driv3.png)
 
-- Algorithm
-    - Generate message signal and display
-    - Generate carrier signal and display
-    - Generate FM signal
+## **Algorthm**
+- Generate message signal and display
+- Generate carrier signal and display
+- Generate FM signal
 
 > Note: For modulation frequency of the carrier is more than frequency of the message signal.
 

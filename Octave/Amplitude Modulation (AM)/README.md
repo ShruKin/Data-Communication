@@ -4,10 +4,10 @@ It is the process of modulation by which the amplitude of  carrier signal is var
 ## **Derivation**
 ![Derivation](deriv.png)
 
-- Algorithm
-    - Generate message signal and display
-    - Generate carrier signal and display
-    - Generate AM signal
+## **Algorthm**
+- Generate message signal and display
+- Generate carrier signal and display
+- Generate AM signal
 
 > Note: For modulation frequency of the carrier is more than frequency of the message signal.
 

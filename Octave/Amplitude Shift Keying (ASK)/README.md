@@ -6,10 +6,10 @@
 ![Diagram](mod1.jpg)
 
 
-- Algorithm
-    - Generate message signal (binary) and display
-    - Generate carrier signal and display
-    - Generate ASK signal
+## **Algorthm**
+- Generate message signal (binary) and display
+- Generate carrier signal and display
+- Generate ASK signal
 
 
 ## **Output**:
