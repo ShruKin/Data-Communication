@@ -19,6 +19,7 @@ fm = 2
 Am = 1
 fc = 20
 Ac = 1
+B = 5
 ````
 > ![Output](out.png)
 
