@@ -1,3 +1,5 @@
+from random import randint
+
 def xor(a, b):
     result = []
     for i in range(1, len(b)):
@@ -54,7 +56,12 @@ def receiver(divident, divisor):
     return checkword
 
 
-def encodeData(data, key):
+def encodeData(data, key=None):
+    if key is None:
+        key = ''
+        for _ in range(randint(1, len(data)-1)):
+            key += str(randint(0, 1)) 
+
     l_key = len(key)
 
     appended_data = data + '0' * (l_key - 1)
@@ -71,4 +78,5 @@ def encodeData(data, key):
 
 data = input("Enter data: ")
 key = input("Enter generator: ")
-encodeData(data, key)
+encodeData(data)  # without generator
+encodeData(data, key) # with generator
