@@ -12,7 +12,7 @@
 - Generate ASK signal
 
 
-## **Output**:
+## **Output - ASK**:
 ````
 amp = 1
 fm = 5
@@ -20,4 +20,10 @@ fc = 50
 ````
 > ![Output](out.png)
 
+## **Output - ASK2**:
+````
+amp = 1
+fc = 10
+````
+> ![Output](out2.png)
 
